@@ -1,0 +1,643 @@
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: defdf1e3dbcae93b384f367554d906cf).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 9f58b551fa9901bddd3ca07524529822).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 4011f3af376267e2633e3119222c384a).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 5f471a1a0a15505f67ccca1882dcb458).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 9028bc2b32b5193ca1e43dbb0fbae332).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 8eb8d7d50aa6431587f1e2e4ffa88cfe).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: b4140b90e00ca3ece3877f6723e19c06).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: ec9204e6e5128d8d7b37aa1f831093e0).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 2dc469f1f80e98eabf922d2fe75a66ca).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 1433e064f8cd50ba06349857352f221c).
+ERROR:discord.client:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\BBB.py", line 160, in on_message
+    current_game_number += 1
+UnboundLocalError: local variable 'current_game_number' referenced before assignment
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: e955a2d0229145a886b515153a91433e).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: b1ca9dbec433a6afd7203a44af22cf1d).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: cd241af9249560b92d2c42c8329ab1b3).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 3a6ad42e13f3cc2c93c2e6779e78fad4).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 754fb98235c38c8150c7d321c05f5a01).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: d616c1f00e2f9576845a2303d1b86112).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 379b075c0cd6abd23450ccd97b12072a).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 07a981c8f62469d959576312c24aa941).
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 07a981c8f62469d959576312c24aa941.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 1e0da3c1fc7c56d03b996bd8bbbce75f).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: c866f6bd676c969275714a3aa725bf79).
+INFO:discord.gateway:Shard ID None has successfully RESUMED session c866f6bd676c969275714a3aa725bf79.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: ab1663fbe05263dad4ab17d789d8ee54).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: c5c1bc384ec0e8aca729fdb255c3014a).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 25a8a5e66adcc1f67503a7a6b6c92c36).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 28b7c6d649617cadea99f2005384bec4).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 546c5453a32c269100bf7d385c6a7eb0).
+INFO:discord.gateway:Shard ID None has successfully RESUMED session 546c5453a32c269100bf7d385c6a7eb0.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: b2c46af966e5d0999f6d344a1e4fd94a).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 9cd326d664378f518fcc460d8cb09bbd).
+WARNING:root:Could not extract player number from thread name: Player 770509432957829121 Game 2
+WARNING:root:Could not extract player number from thread name: Player 770509432957829121 Game 2
+WARNING:root:Could not extract player number from thread name: Player 770509432957829121 Game 2
+WARNING:root:Could not extract player number from thread name: Player 770509432957829121 Game 2
+WARNING:root:Could not extract player number from thread name: Player 770509432957829121 Game 2
+WARNING:root:Could not extract player number from thread name: Player 770509432957829121 Game 2
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 11b32af0e4030ff071a76197cb437a53).
+WARNING:root:Could not extract player number from thread name: Player 770509432957829121 Game 2
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 082665321ab7bae2c751e170c5d3e3cb).
+WARNING:root:Could not extract player number from thread name: Player 770509432957829121 Game 2
+WARNING:root:Could not extract player number from thread name: Player 770509432957829121 Game 2
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 77291a785b3c84cd70f1b53ad6109100).
+ERROR:discord.client:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\BBB.py", line 260, in on_message
+    if str(message.channel.id) in [str(game_details["player1_thread_id"]), str(game_details["player2_thread_id"])]:
+KeyError: 'player1_thread_id'
+ERROR:discord.client:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\BBB.py", line 260, in on_message
+    if str(message.channel.id) in [str(game_details["player1_thread_id"]), str(game_details["player2_thread_id"])]:
+KeyError: 'player1_thread_id'
+ERROR:discord.client:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\BBB.py", line 260, in on_message
+    if str(message.channel.id) in [str(game_details["player1_thread_id"]), str(game_details["player2_thread_id"])]:
+KeyError: 'player1_thread_id'
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 7c61d11c42c326f841610539defaa29b).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: f4388b4122ad44b961cfc032ab2a5ecf).
+WARNING:root:Both player threads not found.
+WARNING:root:Could not extract player number from thread name: Player 770509432957829121 Game 2
+WARNING:root:Could not extract player number from thread name: Player 631013124161667073 Game 2
+WARNING:root:Could not extract player number from thread name: Player 631013124161667073 Game 2
+WARNING:root:Could not extract player number from thread name: Player 631013124161667073 Game 2
+INFO:discord.gateway:Shard ID None has successfully RESUMED session f4388b4122ad44b961cfc032ab2a5ecf.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 3da5d58add122669c21d44653e3ccab4).
+WARNING:root:Unknown player ID in thread name: Player 770509432957829121 Game 2
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: f65f51e5011dcadde33e1d5a98be9194).
+WARNING:root:Both player threads not found.
+WARNING:root:Unknown player ID in thread name: Player 770509432957829121 Game 2
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 3ef2bda438821214d37735e9d4350adf).
+WARNING:root:Unknown player ID in thread name: Player 770509432957829121 Game 2
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 58cd1c1469058c376532f18511af51f7).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: a1138cb016a69022e0e7aefb0bbd6e4b).
+ERROR:discord.client:Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\BBB.py", line 250, in on_message
+    if len(game_details[player_key]["images"]) >= 3:
+NameError: name 'player_key' is not defined
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: a34f2fbbcb4926b626534214d6616312).
+WARNING:root:Unknown player ID in thread name: Player 770509432957829121 Game 2
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 3eff9644a365be5a3398498af319ace5).
+WARNING:root:Unknown player ID in thread name: Player 770509432957829121 Game 2
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 89de08caf983f4a7d63df752b8c09f13).
+WARNING:root:Unknown player ID in thread name: Player 770509432957829121 Game 2
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 14efeac8a001836cc739d8f8382375f4).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 1e20f61c665b64720136a968693673d9).
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: d038b0c38c1d0c1c9cef4ec25ce67cf9).
+ERROR:discord.client:Ignoring exception in on_reaction_add
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\BBB.py", line 295, in on_reaction_add
+    if is_valid_prediction_reaction(reaction) and reaction.message.id in game_details[player_key][
+KeyError: 'player 770509432957829121 Game 2'
+ERROR:discord.client:Ignoring exception in on_reaction_add
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\BBB.py", line 295, in on_reaction_add
+    if is_valid_prediction_reaction(reaction) and reaction.message.id in game_details[player_key][
+KeyError: 'player 770509432957829121 Game 2'
+ERROR:discord.client:Ignoring exception in on_reaction_add
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\BBB.py", line 295, in on_reaction_add
+    if is_valid_prediction_reaction(reaction) and reaction.message.id in game_details[player_key][
+KeyError: 'player 770509432957829121 Game 2'
+ERROR:discord.client:Ignoring exception in on_reaction_add
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\BBB.py", line 295, in on_reaction_add
+    if is_valid_prediction_reaction(reaction) and reaction.message.id in game_details[player_key][
+KeyError: 'player 770509432957829121 Game 2'
+ERROR:discord.client:Ignoring exception in on_reaction_add
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\BBB.py", line 295, in on_reaction_add
+    if is_valid_prediction_reaction(reaction) and reaction.message.id in game_details[player_key][
+KeyError: 'player 770509432957829121 Game 2'
+ERROR:discord.client:Ignoring exception in on_reaction_add
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\BBB.py", line 295, in on_reaction_add
+    if is_valid_prediction_reaction(reaction) and reaction.message.id in game_details[player_key][
+KeyError: 'player 770509432957829121 Game 2'
+ERROR:discord.client:Ignoring exception in on_reaction_add
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\BBB.py", line 295, in on_reaction_add
+    if is_valid_prediction_reaction(reaction) and reaction.message.id in game_details[player_key][
+KeyError: 'player 631013124161667073 Game 2'
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+ERROR:discord.client:Attempting a reconnect in 0.68s
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1064, in create_connection
+    raise exceptions[0]
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1049, in create_connection
+    sock = await self._connect_sock(
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 960, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 705, in sock_connect
+    return await self._proactor.connect(sock, address)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 817, in _poll
+    value = callback(transferred, key, ov)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 604, in finish_connect
+    ov.getresult()
+PermissionError: [WinError 5] Access is denied
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1209, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1178, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [Access is denied]
+ERROR:discord.client:Attempting a reconnect in 1.59s
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1064, in create_connection
+    raise exceptions[0]
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1049, in create_connection
+    sock = await self._connect_sock(
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 960, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 705, in sock_connect
+    return await self._proactor.connect(sock, address)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 817, in _poll
+    value = callback(transferred, key, ov)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 604, in finish_connect
+    ov.getresult()
+PermissionError: [WinError 5] Access is denied
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1209, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1178, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [Access is denied]
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+ERROR:discord.client:Attempting a reconnect in 1.61s
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1064, in create_connection
+    raise exceptions[0]
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1049, in create_connection
+    sock = await self._connect_sock(
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 960, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 705, in sock_connect
+    return await self._proactor.connect(sock, address)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 817, in _poll
+    value = callback(transferred, key, ov)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 604, in finish_connect
+    ov.getresult()
+PermissionError: [WinError 5] Access is denied
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1209, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1178, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [Access is denied]
+ERROR:discord.client:Attempting a reconnect in 0.40s
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1064, in create_connection
+    raise exceptions[0]
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1049, in create_connection
+    sock = await self._connect_sock(
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 960, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 705, in sock_connect
+    return await self._proactor.connect(sock, address)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 817, in _poll
+    value = callback(transferred, key, ov)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 604, in finish_connect
+    ov.getresult()
+PermissionError: [WinError 5] Access is denied
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1209, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1178, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [Access is denied]
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+ERROR:discord.client:Attempting a reconnect in 0.36s
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1064, in create_connection
+    raise exceptions[0]
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1049, in create_connection
+    sock = await self._connect_sock(
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 960, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 705, in sock_connect
+    return await self._proactor.connect(sock, address)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 817, in _poll
+    value = callback(transferred, key, ov)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 604, in finish_connect
+    ov.getresult()
+PermissionError: [WinError 5] Access is denied
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1209, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1178, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [Access is denied]
+ERROR:discord.client:Attempting a reconnect in 3.59s
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1064, in create_connection
+    raise exceptions[0]
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 1049, in create_connection
+    sock = await self._connect_sock(
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 960, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 705, in sock_connect
+    return await self._proactor.connect(sock, address)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 817, in _poll
+    value = callback(transferred, key, ov)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 604, in finish_connect
+    ov.getresult()
+PermissionError: [WinError 5] Access is denied
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1209, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1178, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [Access is denied]
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+INFO:discord.gateway:Shard ID None has successfully RESUMED session d038b0c38c1d0c1c9cef4ec25ce67cf9.
+ERROR:discord.client:Attempting a reconnect in 0.85s
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+ERROR:discord.client:Attempting a reconnect in 0.24s
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+ERROR:discord.client:Attempting a reconnect in 0.41s
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1155, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\ryanw\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\ryanw\PycharmProjects\BaddieBattleBot\venv\lib\site-packages\aiohttp\connector.py", line 1169, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+INFO:discord.gateway:Shard ID None session has been invalidated.
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: a1b83006e53b7ce53af119374c014aa9).
+INFO:discord.gateway:Shard ID None has successfully RESUMED session a1b83006e53b7ce53af119374c014aa9.
